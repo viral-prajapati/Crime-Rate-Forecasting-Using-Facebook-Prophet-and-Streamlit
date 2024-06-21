@@ -59,7 +59,7 @@ crime-rate-forecasting/
 ## Data
 ### Source
 - Public crime data repositories (e.g., Kaggle, government databases).
-- Dataset: `https://www.kaggle.com/currie32/crimes-in-chicago`
+- Dataset: https://www.kaggle.com/currie32/crimes-in-chicago
 
 ### Format
 - CSV files containing records of crime incidents with attributes such as date, type of crime, location, and severity.
@@ -74,6 +74,6 @@ crime-rate-forecasting/
 4. **Model Validation:** Split the data into training and testing sets to validate the model and ensure reliable predictions.
 5. **Scalability:** Implemented a scalable data storage solution using PostgreSQL or cloud storage to handle large datasets efficiently.
 
-- Github Link: `https://github.com/viral-prajapati/viral-prajapati-Crime-Rate-Forecasting-Using-Facebook-Prophet-and-Streamlit`
+- Github Link: https://github.com/viral-prajapati/viral-prajapati-Crime-Rate-Forecasting-Using-Facebook-Prophet-and-Streamlit
 
 This README file provides a comprehensive overview of your project, including setup instructions, usage guidelines, and details on the project's structure and features.
