@@ -50,7 +50,7 @@ cd Crime Rate Forecasting.py
 ```
 crime-rate-forecasting/
 │
-├── Crime Rate Forecasting.py     # Main Streamlit application
+├── Crime Rate Forecasting.py    # Main Streamlit application
 ├── crime_data.csv               # Sample crime data (ensure your actual data is properly formatted)
 ├── README.md                    # Project documentation
 └── data_preprocessing.ipynb     # Jupyter notebook for data preprocessing (if needed)
